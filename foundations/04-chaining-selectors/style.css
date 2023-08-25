@@ -1,0 +1,11 @@
+.avatar.proportioned { /* Works like an AND gate */
+    height: auto;
+    width: 300px;
+}
+
+/* Applied only to elements that have both classes */
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
